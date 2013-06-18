@@ -11,9 +11,9 @@ Requirements
 Installation
 ------------
 
-1. Download this repository as zip and extract "includes" folder and "mokejimai_validation.php" file into cre-loaded main directory;
-2. Enable payment method in Admin panel;
-3. Fill in required info;
+1. Download this repository as zip and extract "includes" folder and "mokejimai_validation.php" file into cre-loaded main directory.
+2. Enable payment method in Admin panel.
+3. Fill in required info.
 
 Contacts
 --------
