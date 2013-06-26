@@ -1,0 +1,10 @@
+Diegimas
+
+1. Padarykite atsargines kopijas[neprivaloma].
+2. Nukopijuokite "includes" kataloga ir "mokejimai_validation.php" faila i el. parduotuves pagrindini kataloga.
+3. Idiekite bei aktyvuokite moduli.
+4. Iveskite reikiamus duomenis.
+
+Kontaktai
+
+Kilus klausimams prasome kreiptis i pagalba@mokejimai.lt
